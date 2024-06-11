@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color:red;
+    line-height: 5rem;
+    padding: 1rem 0;
+}
+h3{
+    color:green;
+}
